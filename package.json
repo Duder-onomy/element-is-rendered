@@ -1,0 +1,19 @@
+{
+  "name": "element-is-rendered",
+  "version": "1.0.0",
+  "description": "Checks if an element is visible by recursing up the node tree until it finds either the body or an element that is hidden. Returns a boolean.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duder-onomy/elementIsVisible.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duder-onomy/elementIsVisible/issues"
+  },
+  "homepage": "https://github.com/Duder-onomy/elementIsVisible#readme"
+}
